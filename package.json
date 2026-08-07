@@ -1,0 +1,20 @@
+{
+  "name": "soccer-tactics-studio",
+  "version": "0.1.0",
+  "description": "3D soccer situation simulator for tactic discussion: first-person thrower view, top-down minimap, annotated arrows, throw range cones and text overlays.",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "three": "^0.170.0"
+  },
+  "devDependencies": {
+    "@types/three": "^0.170.0",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.10"
+  }
+}
