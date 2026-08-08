@@ -59,6 +59,14 @@ anywhere.
 straight to the clipboard). `Save situation` snapshots the whole scenario into this browser with a
 thumbnail; `Export .json` gives you a file to share or version.
 
+## Example situations
+
+`situations/` holds saved scenarios. Load one with **Import** in the Situation panel:
+
+| File | What it shows |
+| --- | --- |
+| [`throw-into-empty-area.stsx.json`](situations/throw-into-empty-area.stsx.json) | Don't throw at the player — throw into the channel between them and the sideline. Narrow 7° cone at 16 m, two throw arcs, sideline camera. |
+
 ## Run it
 
 ```bash
