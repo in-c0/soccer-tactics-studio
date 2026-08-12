@@ -1,4 +1,6 @@
 # ⚽ Soccer Tactics Studio
+<img width="1118" height="640" alt="throw_2-ezgif com-optimize" src="https://github.com/user-attachments/assets/f884e7f1-d4d0-4049-8290-793ada6dbf9a" />
+
 
 A browser-based 3D soccer situation simulator built for **talking about tactics** — pose the players,
 stand behind the thrower's eyes, draw the options, and capture the frame.
